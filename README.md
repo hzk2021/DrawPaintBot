@@ -5,8 +5,12 @@
 		<img src="https://img.shields.io/static/v1?label=&message=.framework&color=512BD4&style=for-the-badge&logo=.net&logoColor=white&logoWidth=&labelColor=&link=">
 		<br>
 	</h1>
-	<h3><b><a href="https://www.youtube.com/watch?v=ctfJ_KSNlZw">View the bot in action</a></b></h3>
 </div>
+
+## Bot in action
+https://github.com/hzk2021/DrawPaintBot/assets/79046679/27031d80-3fe7-4d6f-b5ca-6a16679d563a
+
+
 
 ## Description
 
