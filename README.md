@@ -9,7 +9,7 @@
 
 ## Description
 
-A bot that automatically draws/paints for you given a picture.
+An automated bot that, given a picture, automatically paints/draws for you.
 
 ## Bot in action
 https://github.com/hzk2021/DrawPaintBot/assets/79046679/27031d80-3fe7-4d6f-b5ca-6a16679d563a
